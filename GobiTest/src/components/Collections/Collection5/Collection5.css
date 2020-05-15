@@ -1,0 +1,55 @@
+.collection5Container {
+  position: absolute;
+  top: 3600px;
+}
+
+.coll5Image1 {
+  position: absolute;
+  /* margin-top: -100px; */
+  width: 258.41px;
+  height: 331.29px;
+  left: 169.67px;
+  top: 126.62px;
+  z-index: 2;
+}
+
+.coll5Image2 {
+  position: absolute;
+  left: 543px;
+  width: 858.1px;
+  height: 528px;
+}
+
+.coll5Cover {
+  background-color: #ffffff;
+  color: #ffffff;
+  z-index: 1;
+  width: 769.97px;
+  height: 528px;
+  position: absolute;
+  left: 79.87px;
+  /* top: 28.26px; */
+}
+
+.coll5Txt {
+  margin: 0;
+  position: absolute;
+  width: 171px;
+  height: 168px;
+  left: 560.86px;
+  top: 165px;
+  z-index: 2;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 73px;
+  line-height: 114.5%;
+  /* or 84px */
+
+  text-align: center;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+
+  color: #262626;
+}

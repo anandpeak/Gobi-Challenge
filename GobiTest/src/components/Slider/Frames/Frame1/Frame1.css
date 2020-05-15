@@ -1,0 +1,78 @@
+.smallImage {
+  position: absolute;
+
+  width: 339px;
+  height: 473.63px;
+  top: 39.71px;
+  left: 117.05px;
+  margin: 0;
+}
+
+.bigImage {
+  position: absolute;
+  left: 585.2px;
+  top: 0;
+  margin: 0;
+}
+
+.frame1Txt {
+  position: absolute;
+  margin: 0;
+  left: 503.2px;
+  top: 260.96px;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 73px;
+  line-height: 114.5%;
+  /* identical to box height, or 84px */
+
+  text-align: center;
+  letter-spacing: 0.29em;
+  text-transform: uppercase;
+
+  color: #262626;
+}
+
+.frame1Line {
+  position: absolute;
+  top: 362.34px;
+  left: 503.05px;
+}
+
+.smallImageTxt {
+  position: absolute;
+  margin: 0;
+  top: 521.16px;
+  left: 117.05px;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.125em;
+
+  color: #000000;
+}
+
+.bigImageTxt {
+  position: absolute;
+  margin: 0;
+  left: 1359.8px;
+  top: 42.72px;
+  writing-mode: vertical-rl;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height */
+  word-spacing: 50px;
+
+  letter-spacing: 0.125em;
+
+  color: #000000;
+}

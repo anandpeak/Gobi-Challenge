@@ -1,0 +1,23 @@
+{
+  "name": "gobitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm run start --prefix GobiTest",
+    "dev": "concurrently \"npm run server\" \"npm run GobiTest\"",
+    "heroku-postbuild": "NPM_PRODUCTION=false npm install --prefix GobiTest && npm run build --prefix GobiTest"
+  },
+  "engines": {
+    "node": "12.16.0"
+  },
+  "keywords": [],
+  "author": "Anand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}

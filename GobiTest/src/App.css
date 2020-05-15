@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.App {
+  width: 100%;
+  max-width: 90rem;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+
+.mainTxt {
+  position: absolute;
+  margin: 0;
+  left: 453.84px;
+  top: 765.31px;
+
+  width: 489.1px;
+  height: 132px;
+  text-align: center;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 166.5%;
+  /* or 33px */
+
+  letter-spacing: 0.125em;
+
+  color: #727272;
+}

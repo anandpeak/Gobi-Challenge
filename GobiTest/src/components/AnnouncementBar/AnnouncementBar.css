@@ -1,0 +1,30 @@
+.containerAnnouncement {
+  background-color: black;
+  width: 1439.4px;
+  height: 30px;
+  left: -0.2px;
+  top: 1.48px;
+
+  /* position: absolute; */
+  position: absolute;
+}
+
+.announceText {
+  position: absolute;
+  width: 134px;
+  height: 28px;
+  left: 654px;
+  top: 1.48px;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 200.69%;
+  /* identical to box height, or 28px */
+
+  text-align: center;
+  letter-spacing: 0.185em;
+
+  color: #ffffff;
+}

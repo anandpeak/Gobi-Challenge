@@ -1,0 +1,66 @@
+.collection6Container {
+  position: absolute;
+  top: 4200px;
+  left: 40px;
+}
+
+.coll6Txt {
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 133%;
+  /* identical to box height, or 32px */
+
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+
+  color: #000000;
+
+  margin: 0;
+  position: absolute;
+  top: -30px;
+}
+
+.coll6Img2Txt {
+  position: absolute;
+  top: 230px;
+  left: 378.5px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 164%;
+  /* identical to box height, or 30px */
+
+  text-align: center;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.coll6ShoppingTxt {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.125em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  position: absolute;
+  top: 278.5px;
+  left: 470.5px;
+  cursor: pointer;
+}
+
+.coll6Image6 {
+  color: #ffffff;
+  position: absolute;
+  top: 310.5px;
+  left: 467px;
+  cursor: pointer;
+}

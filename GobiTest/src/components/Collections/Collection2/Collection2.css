@@ -1,0 +1,21 @@
+.coll2Image1 {
+  position: absolute;
+  width: 668px;
+  height: 696px;
+  left: 40px;
+  cursor: pointer;
+}
+
+.coll2Image2 {
+  position: absolute;
+  width: 668px;
+  height: 696px;
+  left: 730px;
+  cursor: pointer;
+}
+
+.collection2Container {
+  position: absolute;
+  width: 1440px;
+  top: 1548px;
+}

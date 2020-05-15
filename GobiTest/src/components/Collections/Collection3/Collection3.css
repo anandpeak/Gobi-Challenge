@@ -1,0 +1,82 @@
+.coll3Image1 {
+  position: absolute;
+  width: 326;
+  height: 492px;
+  left: 40px;
+}
+
+.coll3Image2 {
+  position: absolute;
+  width: 326;
+  height: 492px;
+  left: 388px;
+}
+.coll3Image3 {
+  position: absolute;
+  width: 326;
+  height: 492px;
+  left: 733px;
+}
+
+.coll3Image4 {
+  position: absolute;
+  width: 326;
+  height: 492px;
+  left: 1080px;
+}
+
+.collection3Container {
+  position: absolute;
+  width: 1440px;
+  height: 630px;
+  top: 2334.74px;
+  background: linear-gradient(
+    90deg,
+    #f0eeee 0%,
+    rgba(240, 238, 238, 0) 103.21%
+  );
+}
+.coll3Txt {
+  /* position: absolute; */
+  margin-bottom: 2.7px;
+  margin-top: 38.71px;
+  margin-left: 40px;
+  top: 38.71px;
+  left: 42.85px;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 179.69%;
+  /* or 43px */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.175em;
+
+  color: #000000;
+}
+.coll3BotTxt {
+  width: 90px;
+  height: 18px;
+  margin-left: 42.87px;
+  margin-top: 515.8px;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.055em;
+}
+
+.coll3Image5 {
+  position: absolute;
+  margin-top: -27px;
+  margin-left: 160px;
+  cursor: pointer;
+  /* margin-left: 42.87px;
+  margin-top: 515.8px; */
+}

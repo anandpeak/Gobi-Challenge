@@ -1,0 +1,109 @@
+.containerHeader {
+  position: absolute;
+  width: 1440px;
+  height: 120.5px;
+  left: -0.8px;
+  top: 31.48px;
+
+  background: #ffffff;
+}
+
+.headerGobiLogo {
+  position: absolute;
+  width: 85.4px;
+  height: 27.73px;
+  left: 677.89px;
+  top: 15.36px;
+
+  /* background: #000000; */
+}
+
+.languageSelective {
+  position: absolute;
+  width: 53px;
+  height: 16px;
+  left: 23.6px;
+  top: 24.41px;
+  margin: 0;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height */
+
+  letter-spacing: 0.085em;
+  color: #000000;
+}
+
+.dropMenu {
+  position: absolute;
+  width: 7px;
+  height: 4px;
+  left: 90.6px;
+  top: 31.35px;
+
+  /* border: 1px solid #000000; */
+}
+
+.cashmereLogo {
+  position: absolute;
+  left: 677.99px;
+  top: 49.66px;
+}
+
+.findLogo {
+  left: 130.27px;
+  top: 26.53px;
+  position: absolute;
+}
+
+.searchWord {
+  position: absolute;
+  top: 19.68px;
+  left: 158.31px;
+  margin: 0;
+
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 200.69%;
+  /* identical to box height, or 24px */
+
+  text-align: center;
+  letter-spacing: 0.08em;
+
+  color: #7a7a7a;
+}
+
+.recT241 {
+  background-color: #f4f4f4;
+  top: 0;
+  left: 1390.74px;
+  width: 30px;
+  height: 52.4px;
+  position: absolute;
+  z-index: 0;
+}
+
+.bagLogo {
+  position: absolute;
+  z-index: 1;
+  top: 25.57px;
+  left: 1398.89px;
+}
+
+.Ellipse1 {
+  position: absolute;
+  top: 36.69px;
+  left: 1407.98px;
+  z-index: 2;
+}
+
+.HeartLogo {
+  position: absolute;
+  top: 27.53px;
+  left: 1347.2px;
+}

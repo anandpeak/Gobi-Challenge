@@ -1,0 +1,28 @@
+.sliderContainer {
+  position: absolute;
+  width: 1443.3px;
+  height: 589.71px;
+  left: 0px;
+  top: 154.98px;
+
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.frameNextBtn {
+  left: 1348.55px;
+  top: 446.44px;
+  position: absolute;
+}
+
+.framePrevBtn {
+  top: 499.44px;
+  left: 1348.55px;
+  position: absolute;
+}
+
+.slider-wrapper {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}

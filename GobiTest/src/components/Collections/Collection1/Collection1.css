@@ -1,0 +1,101 @@
+.coll1Image1 {
+  position: absolute;
+  width: 439px;
+  height: 594px;
+  left: 40px;
+  cursor: pointer;
+}
+
+.coll1Image2 {
+  position: absolute;
+  width: 439px;
+  height: 594px;
+  left: 500px;
+  cursor: pointer;
+}
+.coll1Image3 {
+  position: absolute;
+  width: 439px;
+  height: 594px;
+  cursor: pointer;
+
+  left: 960px;
+}
+
+.collection1Container {
+  position: absolute;
+  width: 1440px;
+  top: 934.74px;
+}
+
+.coll1Txt1 {
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 179.69%;
+  /* or 43px */
+
+  text-align: center;
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+  margin: 0;
+  top: 300px;
+  left: 240px;
+  position: absolute;
+}
+
+.coll1Txt2 {
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 179.69%;
+  /* or 43px */
+
+  text-align: center;
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+  margin: 0;
+  top: 520px;
+  left: 695px;
+  position: absolute;
+}
+
+.coll1Txt3 {
+  font-family: Microsoft YaHei;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 179.69%;
+  /* or 43px */
+
+  text-align: center;
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+  margin: 0;
+  top: 520px;
+  left: 1160px;
+  position: absolute;
+}
+
+.collLine1 {
+  top: 300px;
+  left: 245px;
+  position: absolute;
+}
+
+.collLine2 {
+  top: 520px;
+  left: 700px;
+  position: absolute;
+}
+
+.collLine3 {
+  top: 520px;
+  left: 1165px;
+  position: absolute;
+}
