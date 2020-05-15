@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 if (process.env.NODE_ENV === 'production') {
   // the __dirname is the current directory from where the script is running
-  app.use(express.static(__dirname, 'client/'));
+  app.use(express.static('public'));
 
   // send the user to index html page inspite of the url
   app.get('*', (req, res) => {
